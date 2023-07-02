@@ -1,4 +1,4 @@
-Certainly! Here's a sample code snippet demonstrating the usage of subtransactions in PostgreSQL using PL/pgSQL:
+A sample code snippet to demonstrate the usage of subtransactions in PostgreSQL using PL/pgSQL:
 
 ```sql
 -- Create a function that uses subtransactions
