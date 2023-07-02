@@ -46,4 +46,4 @@ In the above code, a function named `perform_subtransactions` is created using P
 
 You can invoke the function `perform_subtransactions` to execute the code and observe the behavior of subtransactions within the PostgreSQL environment. Remember to replace `table_name`, `column1`, `column2`, and `condition` with your actual table and column names, as well as the appropriate conditions for your use case.
 
-Please note that this is a simplified example to illustrate the concept of subtransactions. You may need to adapt and modify the code to suit your specific requirements and transactional logic.
+
